@@ -6,6 +6,16 @@
     "White_Quincy",
     "Nathan_Lafirenze"
   ],
+  "norm": [
+    200,
+    180,
+    160,
+    140,
+    120,
+    100,
+    100,
+    100
+  ],
   "commands": {
     "jail":2,
     "spawn":2,
