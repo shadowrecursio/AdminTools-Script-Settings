@@ -1,7 +1,7 @@
 {
-  "version": 1.1,
+  "version": 1.2,
   "update": "https://github.com/shadowrecursio/AdminTools-Script-Settings/blob/main/AdminTools.luac?raw=true",
-  "updateList": "Что-то/nДа что-то",
+  "updateList": "Empty",
   "nicks": [
     "Water_Raise",
     "Snakeoz_Encore",
@@ -27,7 +27,7 @@
     "ofjail":4,
     "warn":3,
     "givegun":6,
-    "setskin":5,
+    "mpskin":5,
     "skick":3,
     "sethp":3,
     "ban":4
