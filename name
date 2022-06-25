@@ -1,5 +1,5 @@
 {
-  "version": 1.2,
+  "version": 1.21,
   "update": "https://github.com/shadowrecursio/AdminTools-Script-Settings/blob/main/AdminTools.luac?raw=true",
   "updateList": "- Fixes.\n- Some changes.",
   "nicks": [
