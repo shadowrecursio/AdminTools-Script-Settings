@@ -1,7 +1,7 @@
 {
-  "version": 1.21,
+  "version": 1.22,
   "update": "https://github.com/shadowrecursio/AdminTools-Script-Settings/blob/main/AdminTools.luac?raw=true",
-  "updateList": "- Protect from crash.",
+  "updateList": "- HOTFIX: Protect from crash.",
   "nicks": [
     "Water_Raise",
     "Snakeoz_Encore",
