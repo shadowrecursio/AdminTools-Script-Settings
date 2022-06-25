@@ -1,5 +1,5 @@
 {
-  "version": 1.22,
+  "version": 1.23,
   "update": "https://github.com/shadowrecursio/AdminTools-Script-Settings/blob/main/AdminTools.luac?raw=true",
   "updateList": "- HOTFIX: Protect from crash.",
   "nicks": [
