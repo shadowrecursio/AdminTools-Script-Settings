@@ -21,6 +21,7 @@
   "commands": {
     	"ans":1,
 	"as":1,
+	"kick":2,
 	"jail":2,
 	"spawn":2,
 	"fillveh":2,
