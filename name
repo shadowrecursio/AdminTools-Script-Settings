@@ -1,7 +1,7 @@
 {
   "version": 1.24,
   "update": "https://github.com/shadowrecursio/AdminTools-Script-Settings/blob/main/AdminTools.luac?raw=true",
-  "updateList": "- Change auto-request from 10 to 5 second.\n- Added UA server.",
+  "updateList": "- Change auto-request from 10 to 5 second.\n- Added UA server.\näà",
   "nicks": [
     "Water_Raise",
     "Snakeoz_Encore",
