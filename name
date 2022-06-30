@@ -2,7 +2,7 @@
   "version": 1.3,
   "at_online": "https://github.com/shadowrecursio/AdminTools-Script-Settings/blob/main/AT_Online.lua/?raw=true",
   "update": "https://github.com/shadowrecursio/AdminTools-Script-Settings/blob/main/AdminTools.luac?raw=true",
-  "updateList": "- Added "new" lines about anti-cheat to the "Auto-surveillance" function in the "Basic settings" tab.\n- Now when accepting a request from another admin, the admin automatically sends "+ for AT" to the admin chat to reject the last request.\n- Changed the request timeout from 10 seconds to 5 seconds, in the "Auto-request" function in the "Basic settings" tab.\n- The "Quick map" function has been added to the "Modifications" tab.\n- Added the "Auto-command after authorization" function to the "Basic settings" tab.\n- The "Improved /zapros" function has been added to the "General Settings" tab - now you can quickly check the player for hacked/transferred accounts.\n- The "Improved /sp(ec)" function has been added to the "Basic Settings" tab.\n- The "Auto-/skick" function has been added to the "Basic Settings" tab.\n- Fixed some bugs.",
+  "updateList": "- In group VK.",
   "nicks": [
     "Water_Raise",
     "Snakeoz_Encore",
