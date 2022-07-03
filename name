@@ -46,6 +46,7 @@
 	"zapros":5,
 	"kickinvite":5,
         "msg":6,
+        "ginvite":6,
 	"givegun":6
   },
   "insults": [
