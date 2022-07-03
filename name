@@ -27,6 +27,7 @@
 	"spawn":2,
 	"fillveh":2,
 	"spawncar":2,
+        "o":3,
 	"freeze":3,
 	"unfreeze":3,
 	"kickjob":3,
@@ -44,6 +45,7 @@
 	"mpskin":4,
 	"zapros":5,
 	"kickinvite":5,
+        "msg":6,
 	"givegun":6
   },
   "insults": [
