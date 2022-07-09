@@ -1,8 +1,8 @@
 {
-  "version": 1.32,
+  "version": 1.33,
   "at_online": "https://github.com/shadowrecursio/AdminTools-Script-Settings/blob/main/AT_Online2.lua/?raw=true",
   "update": "https://github.com/shadowrecursio/AdminTools-Script-Settings/blob/main/AdminTools.luac?raw=true",
-  "updateList": "- Fixes.\n- Add new function in \"Main settings\".",
+  "updateList": "- Fixes.",
   "nicks": [
     "Water_Raise",
     "Snakeoz_Encore",
